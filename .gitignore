@@ -1,0 +1,19 @@
+# Jupyter checkpoints - never upload these
+.ipynb_checkpoints/
+
+# Old notebook versions - as per your requirement
+tsunami_prediction.ipynb
+tsunami_prediction_research_v2.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
